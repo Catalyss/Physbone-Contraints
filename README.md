@@ -1,4 +1,4 @@
-# VRC-Physbone-Constrains
+# VRC-Physbone-Constraints
 
 Simple Constrains mecanism For VRChat with Quest Compatibility
 ## World lock example
